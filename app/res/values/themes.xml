@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.InstagramReset.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.InstagramReset</item>
+    </style>
+</resources>
